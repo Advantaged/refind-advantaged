@@ -1,4 +1,4 @@
-# refind2k
+# refind-advantaged
 <div align = "center">
 
 <h1><a href="https://2kabhishek.github.io/refind2k">refind2k</a></h1>
